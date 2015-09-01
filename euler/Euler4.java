@@ -1,3 +1,4 @@
+package euler;
 /**
  * 
  * A palindromic number reads the same both ways. 
